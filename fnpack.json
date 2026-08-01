@@ -1,0 +1,17 @@
+{
+  "global-radio": {
+    "display_name": "moviepilot-v2",
+    "version": "2.15.1",
+    "platform": "x86",
+    "desc": "MoviePilot基于 NAStool 部分代码重新设计，聚焦自动化核心需求，减少问题同时更易于扩展和维护。",
+    "labels": "娱乐,影视",
+    "distributor": "jxxghp/MoviePilot",
+    "distributor_url": "https://github.com/jxxghp/MoviePilot",
+    "bug_report_url": "https://github.com/ccyo-fang/FnDepot/issues",
+    "isdocker": "true",
+    "install_type": "用户空间",
+    "size": "0.35",
+    "download_url": "./moviepilot-v2/moviepilot-v2.fpk",
+    "changelog": "新增安装引导添加媒体库目录，默认访问端口改为：3000 fpk自用打包"
+  }
+}
