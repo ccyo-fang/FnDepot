@@ -1,5 +1,5 @@
 {
-  "global-radio": {
+  "moviepilot-v2": {
     "display_name": "moviepilot-v2",
     "version": "2.15.1",
     "platform": "x86",
@@ -14,7 +14,7 @@
     "download_url": "./moviepilot-v2/moviepilot-v2.fpk",
     "changelog": "新增安装引导添加媒体库目录，默认访问端口改为：3000 fpk自用打包"
   },
- "global-radio": {
+ "HiDNS": {
     "display_name": "HiDNS",
     "version": "2.1.2",
     "platform": "x86",
