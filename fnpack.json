@@ -15,7 +15,7 @@
     "changelog": "新增安装引导添加媒体库目录，默认访问端口改为：3000 fpk自用打包"
   },
  "HiDNS": {
-    "display_name": "hidns",
+    "display_name": "HiDNS",
     "version": "2.1.2",
     "platform": "x86",
     "desc": "HiDNS - DNS 聚合管理平台：一个现代化的 DNS 聚合管理平台，前端使用 React + TailwindCSS，后端使用 Node.js + TypeScript。",
