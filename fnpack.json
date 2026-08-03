@@ -26,7 +26,6 @@
     "isdocker": "true",
     "install_type": "用户空间",
     "size": "0.75",
-    "download_url": "./hidns/hidns.fpk",
-    "changelog": "新增安装引导添加媒体库目录，默认访问端口改为：3000 fpk自用打包"
+    "changelog": "新增HiDNS"
   }
 }
