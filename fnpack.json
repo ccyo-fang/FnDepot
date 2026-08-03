@@ -11,6 +11,7 @@
     "isdocker": "true",
     "install_type": "用户空间",
     "size": "0.35",
+    "download_url": "https://github.com/ccyo-fang/FnDepot/releases/download/FnDepot/moviepilot-v2.fpk",
     "changelog": "新增安装引导添加媒体库目录，默认访问端口改为：3000 fpk自用打包"
   },
  "HiDNS": {
@@ -25,6 +26,7 @@
     "isdocker": "true",
     "install_type": "用户空间",
     "size": "0.75",
-    "changelog": "新增HiDNS"
+   "download_url": "https://github.com/ccyo-fang/FnDepot/releases/download/FnDepot/hidns.fpk",
+    "changelog": "新增引导界面设置端口界面"
   }
 }
