@@ -13,8 +13,7 @@
     "size": "0.35",
     "download_url": "./moviepilot-v2/moviepilot-v2.fpk",
     "changelog": "新增安装引导添加媒体库目录，默认访问端口改为：3000 fpk自用打包"
-  }
-},
+  },
  "global-radio": {
     "display_name": "HiDNS",
     "version": "2.1.2",
@@ -29,4 +28,5 @@
     "size": "0.75",
     "download_url": "./hidns/hidns.fpk",
     "changelog": "新增安装引导添加媒体库目录，默认访问端口改为：3000 fpk自用打包"
-    }
+  }
+}
